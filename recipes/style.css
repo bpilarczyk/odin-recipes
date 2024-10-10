@@ -1,0 +1,37 @@
+body {
+    background-color: rgba(150, 75, 0, 0.3);
+}
+
+h1, h2, h3 {
+    font-family: Verdana, Tahoma, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    background-color: brown;
+    color: antiquewhite;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+h3 {
+    font-size: 22px;
+}
+
+p, li{
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 14px;
+    font-weight: 100;
+}
+
+img {
+    width: 400px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
